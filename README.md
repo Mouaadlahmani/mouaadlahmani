@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouaad Lahmani</h1>
 <h3 align="center">Développeur Full-Stack - Java Angular</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouaadlahmani" alt="mouaadlahmani" /></a> </p>
-
 - 🌱 I’m currently learning **Java Angular**
 
 - 📫 How to reach me **lahmani.mouaad@gmail.com**
